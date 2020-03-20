@@ -1,2 +1,2 @@
-It's my first use git.
-Git is a version control system.
+LeetCode Algorithm！
+2020.3.17 
